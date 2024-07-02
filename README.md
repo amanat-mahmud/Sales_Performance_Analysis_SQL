@@ -24,8 +24,10 @@ The primary objective of this analysis is to provide actionable insights into ou
 4. Develop targeted strategies to reduce losses and enhance customer satisfaction.
 
 ## 🛠️ Tools Used
-- **Analytical:** MySQL
-- **Presentation:** Microsoft PowerPoint
+- **Analytical & Visual:**  MySQL\
+  <img width="96" height="96" src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="mysql-logo"/>
+- **Presentation:** Microsoft Power Point\
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
