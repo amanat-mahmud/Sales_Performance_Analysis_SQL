@@ -10,7 +10,6 @@
 - [Project Presentation](#-project-presentation)
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
-- [Dashboard](#-dashboard)
 
 ## ❓ Problem Statement
 In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top-performing products, optimizing inventory, recognizing top-performing regions, and identifying top customers. Additionally, we need to understand the financial impact of discounts to enhance our profit margins.
@@ -33,8 +32,6 @@ The primary objective of this analysis is to provide actionable insights into ou
 - **Data source:** Internet
 - **Time period:** 2014-2017
 - **Data size:** Orders Table (5009,22), Returns Table (296,2)
-- **Key columns:** Order Id, Ship Mode, Segment, City, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit
-- **Calculated columns:** Profit Margin, Average Order Value, Order Completion Rate, Actual Sales, Actual Profit, Amount Lost, Order Complete, Profit on No Discount, Sales on No Discount
 - [**Data set Link**](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/Superstore.csv)
 
 ## 🔎 Key Findings
