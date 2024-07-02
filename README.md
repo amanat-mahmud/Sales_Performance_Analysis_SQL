@@ -25,7 +25,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 
 ## 🛠️ Tools Used
 - **Analytical:**  MySQL\
-  <img width="96" height="96" src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="mysql-logo"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/ffffff/mysql-logo.png" alt="mysql-logo"/>
 - **Presentation:** Microsoft Power Point\
   <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
