@@ -58,6 +58,8 @@ The primary objective of this analysis is to provide actionable insights into ou
 7. Create tailored loyalty programs and personalized marketing for top customers in each segment
 
 ## 📌 Project Presentation
+### Video Presentation
+[![Sales Performance Analysis Presentation](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/cover.png)](https://youtu.be/kr7XWarcToA)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/sales%20performance%20analysis.pdf)
