@@ -65,7 +65,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/sales%20performance%20analysis.pdf)
 
 ## 🧠 Project Learnings
-1. Crreating new schema and table.
+1. Creating new schema and table.
 2. Data cleaning (fixing date).
 3. Group by.
 4. Common Table Expressions (CTE).
