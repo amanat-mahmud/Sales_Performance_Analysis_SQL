@@ -59,7 +59,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![Sales Performance Analysis Presentation](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/cover.png)](https://youtu.be/kr7XWarcToA)
+[![Sales Performance Analysis Presentation](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/cover.png)](https://youtu.be/K_8ADt0ElIc)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/sales%20performance%20analysis.pdf)
